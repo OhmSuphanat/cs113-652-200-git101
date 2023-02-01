@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-typedef struct Node{
+typedef struct node {
     int data;
-    node *next_;
+    node next;
 }node;
 
-flaot main(){
+void main(){
     return;
 }
